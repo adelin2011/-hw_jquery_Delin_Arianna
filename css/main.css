@@ -8,3 +8,9 @@
 	position: absolute;
 	width: 1px; 
 }
+
+body{
+	margin: auto;
+	padding-left: 20px; 
+	padding-right: 20px; 
+}
